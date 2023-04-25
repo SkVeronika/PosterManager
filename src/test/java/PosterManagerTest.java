@@ -166,4 +166,5 @@ public class PosterManagerTest {
 
         Assertions.assertArrayEquals(expected, actual);
     }
+    
 }
